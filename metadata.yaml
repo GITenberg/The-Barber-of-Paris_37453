@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34988'
     url: http://www.gutenberg.org/2009/agents/34988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37453#The-Barber-of-Paris
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
 identifiers:
